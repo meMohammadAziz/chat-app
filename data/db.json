@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "msg": "Asalamoalikum !",
+      "user_no": 1
+    },
+    {
+      "id": 2,
+      "msg": "How're you holding up.",
+      "user_no": 1
+    },
+    {
+      "id": 3,
+      "msg": "WS",
+      "user_no": 2
+    },
+    {
+      "id": 4,
+      "msg": "...",
+      "user_no": 1
+    },
+    {
+      "id": 5,
+      "msg": "Stop texting me!!!",
+      "user_no": 2
+    },
+    {
+      "id": 6,
+      "msg": "Why!!!!!!!!!!!!!",
+      "user_no": 1
+    },
+    {
+      "id": 7,
+      "msg": "Cause I don't know you !",
+      "user_no": 2
+    }
+  ]
+}
